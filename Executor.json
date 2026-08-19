@@ -646,7 +646,7 @@
   },
   "background": {
     "url": "https://cdn.jsdelivr.net/gh/iamaloserb/Themses@main/Executor%20Semi-Titan%20Scenes%204k%2060Fps%20__%20Skibidi%20Toilet%2078%20__%20Scene%20Pack%20(1).gif",
-    "alpha": 0.35,
-    "blur": 0.8
+    "alpha": 1.0,
+    "blur": 0
   }
   }
